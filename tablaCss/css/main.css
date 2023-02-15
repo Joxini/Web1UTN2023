@@ -1,0 +1,20 @@
+#colFechaNac{
+    background-color: rgb(219, 103, 15);
+}
+
+*{color: orange;}
+
+td{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.table1{
+    color: chocolate;
+    background-color: rgb(7, 44, 210);
+    border-style: hidden;
+}
+.table2{
+    color:bisque;
+    background-color: violet;
+    border-style: groove;
+}
